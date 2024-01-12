@@ -1,0 +1,4 @@
+baseURL = 'https://danielz.io/'
+languageCode = 'hu-hu'
+title = 'Zámbó Dániel'
+theme = 'ananke'
